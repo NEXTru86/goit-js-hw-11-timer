@@ -1,0 +1,29 @@
+{
+  "name": "goit-js-hw-11-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://NEXTru86.github.io/goit-js-hw-11-timer",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html",
+    "predeploy": "npm run build -- --public-url /goit-js-hw-11-timer/",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEXTru86/goit-js-hw-11-timer.git"
+  },
+  "keywords": [],
+  "author": "Pavel Kharin <kharinpav@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goitacademy/goit-js-hw-11-timer/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "parcel-bundler": "1.12.3",
+    "posthtml-include": "^1.6.2",
+    "sass": "^1.32.8"
+  }
+}
