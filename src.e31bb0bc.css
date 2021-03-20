@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/*
+ * Главный файл стилей.
+ * Все паршалы подключаются сюда.
+ */
+.timer {
+  display: flex;
+  padding: 15px;
+  font-size: 50px;
+}
+
+.field {
+  display: flex;
+  margin: 20px;
+}
+
+.value {
+  margin-right: 5px;
+}
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
