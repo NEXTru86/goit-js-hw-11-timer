@@ -18,7 +18,7 @@
   "author": "Pavel Kharin <kharinpav@yandex.ru>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/goit-js-hw-11-timer/issues"
+    "url": "https://github.com/NEXTru86/goit-js-hw-11-timer/issues"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0",
